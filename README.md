@@ -53,4 +53,5 @@ A Power BI project analyzing trends in the data industry including salaries, job
 
 ## Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: www.linkedin.com/in/akintunde-amosu-a61190249
+Gmail: amosueniola2@gmail.com
