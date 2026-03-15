@@ -13,6 +13,7 @@ I am a data analyst passionate about transforming raw data into meaningful insig
 * Dashboard Development
 * Business Intelligence
 
+MY DATA ANALYSIS CERTIFICATE.png
 ### Tools
 
 * Power BI
