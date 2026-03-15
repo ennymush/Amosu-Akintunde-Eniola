@@ -1,5 +1,5 @@
 # Amosu-Akintunde-Eniola
-# Hi, I'm Eniola Amosu 👋
+# Hi, I'm Amosu Akintunde Eniola 👋
 
 ## Data Analyst | Power BI | Excel | Data Visualization
 
